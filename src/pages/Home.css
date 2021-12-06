@@ -1,0 +1,14 @@
+.home-wrapper {
+  height: calc(100vh - 100px) !important;
+  width: 100vw;
+}
+
+.location-pin {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  left: -15px;
+  top: -15px;
+  background-color: burlywood;
+  border-radius: 30px;
+}
